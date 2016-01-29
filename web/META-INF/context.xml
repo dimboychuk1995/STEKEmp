@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Context antiJARLocking="true" path="/STEKEmployee">
+ <Resource auth="Container" driverClassName="com.microsoft.sqlserver.jdbc.SQLServerDriver" maxActive="300" maxIdle="2" name="jdbc/hrstek" password="Gjdybq&lt;h&apos;l?55" type="javax.sql.DataSource" url="jdbc:sqlserver://obl-devel:1433;databaseName=hrstek;charSet=UTF8;" username="sa" validationQuery="select 1"/>
+</Context>
